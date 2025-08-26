@@ -1,0 +1,20 @@
+{
+  "name": "pwiii-victor-santos",
+  "version": "1.0.0",
+  "description": "Aulas de Programação de Web III  com o professor João Siles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorzx9/pwiii-victor-santos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorzx9/pwiii-victor-santos/issues"
+  },
+  "homepage": "https://github.com/victorzx9/pwiii-victor-santos#readme"
+}
